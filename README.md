@@ -10,4 +10,4 @@
   ```docker build -t nodeapp -f Dockerfile .```
 - Create container with `nodeapp` image and verify the application running inside it
   
- ```docker run -d nodeapp```
+  ```docker run -d nodeapp```
