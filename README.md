@@ -1,4 +1,4 @@
-## Instructions to use
+## Instructions to use this sample repository
 - Clone the repo
 
   ```git clone https://github.com/thechetantalwar/node-demo```
